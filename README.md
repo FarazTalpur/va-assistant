@@ -398,5 +398,4 @@ For technical support:
 
 ---
 
-**VA Assistant** - Making vulnerability assessment more efficient and reliable. #   v a - a s s i s t a n t  
- 
+**VA Assistant** - Making vulnerability assessment more efficient and reliable. #   v a - a s s i s t a n t 
